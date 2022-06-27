@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="694" height="16" viewBox="0 0 694 16">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3)">
+            <tspan x="614" y="15">Get Access</tspan>
+        </text>
+        <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3)">
+            <tspan x="533" y="15">Sign In</tspan>
+        </text>
+        <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3)">
+            <tspan x="219" y="15">Become a Partner</tspan>
+        </text>
+        <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3)">
+            <tspan x="96" y="15">How it works</tspan>
+        </text>
+        <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3)">
+            <tspan x="0" y="15">About Us</tspan>
+        </text>
+        <g>
+            <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3) translate(459)">
+                <tspan x="0" y="15">EN</tspan>
+            </text>
+            <path stroke="#979797" d="M31 7L37.577 13 44 7.062" transform="translate(0 -3) translate(459)"/>
+        </g>
+        <g>
+            <text fill="#7F7F7F" font-family="Roboto-Regular, Roboto" font-size="16" transform="translate(0 -3) translate(377)">
+                <tspan x="0" y="15">EUR</tspan>
+            </text>
+            <path stroke="#979797" d="M39 7L45.577 13 52 7.062" transform="translate(0 -3) translate(377)"/>
+        </g>
+    </g>
+</svg>

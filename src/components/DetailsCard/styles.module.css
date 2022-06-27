@@ -1,0 +1,118 @@
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .detailsCardWrapper{
+        display: block;
+        padding: 1rem;
+    }
+    .cardWrapper{
+        width: 90%;
+    }
+    .listGroupWrapper{
+        width: 90%;
+    }
+    .details{
+        width: 95%;
+        margin: 0.5rem 0;
+    }
+    .infoWrapper{
+        padding: 0.5rem;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .detailsCardWrapper{
+        display: block;
+        padding: 1rem;
+    }
+    .cardWrapper{
+        width: 90%;
+    }
+    .listGroupWrapper{
+        width: 90%;
+    }
+    .details{
+        width: 95%;
+        margin: 0.5rem 0;
+    }
+    .infoWrapper{
+        padding: 0.5rem;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .detailsCardWrapper{
+        display: block;
+        padding: 1rem;
+    }
+    .cardWrapper{
+        width: 90%;
+    }
+    .listGroupWrapper{
+        width: 90%;
+    }
+    .details{
+        width: 95%;
+        margin: 0.5rem 0;
+    }
+    .infoWrapper{
+        padding: 0.5rem;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .detailsCardWrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 1rem;
+    }
+    .cardWrapper{
+        width: 50%;
+    }
+    .listGroupWrapper{
+        width: 40%;
+    }
+    .details{
+        width: 50%;
+    }
+    .infoWrapper{
+        padding: 3rem;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .detailsCardWrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 1rem;
+    }
+    .cardWrapper{
+        width: 50%;
+    }
+    .listGroupWrapper{
+        width: 40%;
+    }
+    .details{
+        width: 50%;
+    }
+    .infoWrapper{
+        padding: 3rem;
+    }
+    
+}
+
+
+.detailsWrapper{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+

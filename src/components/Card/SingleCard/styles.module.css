@@ -1,0 +1,127 @@
+.itemCard {
+    background: #FFFFFF;
+    border: 0.5px solid rgba(0, 0, 0, 0.34);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 0.5rem 0.3rem;
+}
+
+.cardTitle{
+    text-align: center;
+    text-transform: uppercase;
+    color: #383838;
+    font-size: 16px;
+}
+
+.itemImg{
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+
+
+.descDefault{
+    padding: 0 1rem;
+    font-style: normal;
+}
+
+.desc{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4B4D51;
+}
+
+.cardImgtop{
+    flex-direction: column;
+    padding: 0.5rem;
+    display: flex;
+    background-color: rgba(100,100,100,0.1);
+}
+
+.btnWrap{
+    text-align: center;
+}
+.button{
+    margin: 0 auto;
+    margin-bottom: 3rem;
+    padding: 0 2%;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 3rem;
+    border: 1px solid #2a2a2a;
+    text-transform: capitalize;
+    background-color: #fff;
+    color: #1A1A22;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .itemCard {
+        width: 90%;
+        margin: 0.5rem auto;
+    }
+
+    .button{
+        width: 70%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .itemCard {
+        width: 90%;
+        margin: 0.5rem auto;
+    }
+
+    .button{
+        width: 70%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .itemCard {
+        width: 90%;
+        margin: 0.5rem auto;
+    }
+
+    .button{
+        width: 70%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .itemCard {
+        width: 30%;
+        margin: 0.5rem auto;
+    }
+
+    .button{
+        width: 35%;
+    }
+    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .itemCard {
+        width: 30%;
+        margin: 0.5rem auto;
+    }
+
+    .button{
+        width: 35%;
+    }
+    
+}

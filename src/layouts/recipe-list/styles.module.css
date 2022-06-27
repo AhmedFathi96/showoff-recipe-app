@@ -1,0 +1,41 @@
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .recipeListWrapper{
+        width: 100%;
+        margin: 1rem auto;
+    } 
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .recipeListWrapper{
+        width: 100%;
+        margin: 1rem auto;
+    } 
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .recipeListWrapper{
+        width: 80%;
+        margin: 1rem auto;
+    } 
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .recipeListWrapper{
+        width: 70%;
+        margin: 1rem auto;
+    } 
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .recipeListWrapper{
+        width: 60%;
+        margin: 1rem auto;
+    }    
+}
